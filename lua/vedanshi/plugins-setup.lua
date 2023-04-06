@@ -112,4 +112,6 @@ return packer.startup(function()
 	use("ThePrimeagen/harpoon")
 
 	use("mbbill/undotree") --visualise the undo history
+
+	use("mattn/emmet-vim")
 end)
